@@ -1,0 +1,84 @@
+.homepage{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    background-color: #A2D3F7;
+}
+.d-block{
+    border-radius: 50%;
+    height: 100px;
+}
+#block1{
+    background-color:#F9F7F7;
+    font-family: "Merriweather", serif;
+}
+#custom-cards{
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+#block2{
+    background-color: #DBE2EF;
+}
+div{
+    display: block;
+}
+.bottom-container {
+    background-color: #112D4E;
+    padding: 50px 0 20px;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+  h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+  }
+  h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  h3 {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+  }
+  p {
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  #block3{
+    background-color: #3F72AF;
+  }
+  .copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #eaf6f6;
+  }
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
